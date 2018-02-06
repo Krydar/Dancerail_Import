@@ -21,6 +21,8 @@ You will first need to make your chart with DRMaker. You can download that [here
 Yes, this IS the official download link.
 
 _Usage: dancerail_import.py apk_file_
+
+You will have to add your files (ogg and drb) inside the "FILES" folder (if you choose to download the release, if not, create a folder named "FILES" and put the files in there)
   
 # Overview
 
