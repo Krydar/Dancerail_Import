@@ -12,6 +12,10 @@ A tool written in Python to import custom charts made with DRMaker to DanceRail 
 * [apktool](https://ibotpeaches.github.io/Apktool/)
 * [uber-apk-signer](https://github.com/patrickfav/uber-apk-signer)
 
+#### **If you do decide to download these separately, you MUST rename apktool to apktool.jar and uber-apk-signer to sign.apk**
+
+
+
 ### This tool is currently only available for Windows. I will add support for other platforms in the future.
 
 # How to use
